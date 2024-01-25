@@ -1,0 +1,33 @@
+People:
+
+Name
+Email address
+Phone number
+Job Titles
+Company
+Location
+# Employees
+Industry & Keywords
+Buying Intent
+Email Status
+Technologies
+Revenue
+Funding
+Job Postings
+
+
+
+
+Companies:
+
+Company
+Email address
+Phone number
+Location
+# Employees
+Industry & Keywords
+Buying Intent
+Technologies
+Revenue
+Funding
+Job Postings
